@@ -1,0 +1,25 @@
+.container_signup{
+    width: 40%;
+    margin: auto;
+    position: absolute;
+    height: 50vh;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 0px 10px;
+}
+
+.container_signup .container_signup_inner{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width: 65%;
+}
+
+.form_control{
+    display: block;
+    width: 100%;
+    padding: 4px;
+    margin: 12px 0px;
+}
